@@ -1,0 +1,4 @@
+pypdf
+streamlit
+cohere
+python-dotenv
